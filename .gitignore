@@ -1,0 +1,14 @@
+# Ignore Python bytecode files
+*.py[cod]
+__pycache__/
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore Django migrations
+**/migrations/*.py
+**/migrations/*.py
+# Ignore Python bytecode files
+*.py[cod]
+__pycache__/
